@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../header/Header';
 import Footer from '../footer/Footer';
 
-export default (props) => {
+const Layout = (props) => {
     return (
         <div>
             <Header />
@@ -13,3 +13,5 @@ export default (props) => {
         </div>
     )
 }
+
+export default Layout;

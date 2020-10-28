@@ -2,9 +2,9 @@ import React from 'react';
 
 const Header = (props) => {
     return (
-        <heder>
+        <header>
             <h1>Brain Gains</h1>
-        </heder>
+        </header>
     )
 }
 
